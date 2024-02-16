@@ -1,5 +1,5 @@
 {
-    "name": "jeroen-g/explorer",
+    "name": "pip/explorer",
     "description": "Next-gen Elasticsearch driver for Laravel Scout.",
     "license": "MIT",
     "authors": [
@@ -10,7 +10,14 @@
         }
     ],
     "homepage": "https://jeroen-g.github.io/Explorer/",
-    "keywords": ["Laravel", "Scout", "Elasticsearch", "Elastic", "search", "Explorer"],
+    "keywords": [
+        "Laravel",
+        "Scout",
+        "Elasticsearch",
+        "Elastic",
+        "search",
+        "Explorer"
+    ],
     "require": {
         "php": "8.0.*||8.1.*||8.2.*||8.3.*",
         "elasticsearch/elasticsearch": "^8.0",
